@@ -1,0 +1,3 @@
+- Human wizard played by James
+- Late 20s, red hair, weathered, scruffy
+- In a party with [Cassandra](PCs/Current/Cassandra.md), [Kayne](PCs/Current/Kayne.md), [Rinn](PCs/Current/Rinn.md), [Juniper](PCs/Current/Juniper.md)

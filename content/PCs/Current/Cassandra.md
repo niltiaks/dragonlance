@@ -1,0 +1,4 @@
+- Mid-20s (25)
+- Ranger
+- Black hair, freckles, blue eyes, scar
+- In a party with [Kayne](PCs/Current/Kayne.md), [Rinn](PCs/Current/Rinn.md), [Juniper](PCs/Current/Juniper.md), [Xavier](PCs/Current/Xavier.md)

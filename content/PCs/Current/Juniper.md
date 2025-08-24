@@ -1,0 +1,4 @@
+- 3 foot nothing, furred cape
+- Long black hair, bright eyes, freckles
+- 30 years old, goes by June
+- In a party with [Cassandra](PCs/Current/Cassandra.md), [Kayne](PCs/Current/Kayne.md), [Rinn](PCs/Current/Rinn.md), [Xavier](PCs/Current/Xavier.md)

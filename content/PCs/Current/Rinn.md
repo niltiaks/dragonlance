@@ -1,0 +1,2 @@
+- Male, half elf, bard
+- In a party with [Cassandra](PCs/Current/Cassandra.md), [Kayne](PCs/Current/Kayne.md), [Juniper](PCs/Current/Juniper.md), [Xavier](PCs/Current/Xavier.md)

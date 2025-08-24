@@ -1,0 +1,4 @@
+- Tall human man
+- Dark cloak drawn over his shoulders, hood up
+- Green eyes, ash grey hair
+- In a party with [Cassandra](PCs/Current/Cassandra.md), [Rinn](PCs/Current/Rinn.md), [Juniper](PCs/Current/Juniper.md), [Xavier](PCs/Current/Xavier.md)
